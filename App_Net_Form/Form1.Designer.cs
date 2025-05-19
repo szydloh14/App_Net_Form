@@ -72,7 +72,7 @@
             // refresh_button
             // 
             this.refresh_button.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.refresh_button.Location = new System.Drawing.Point(654, 100);
+            this.refresh_button.Location = new System.Drawing.Point(689, 100);
             this.refresh_button.Name = "refresh_button";
             this.refresh_button.Size = new System.Drawing.Size(144, 39);
             this.refresh_button.TabIndex = 1;
@@ -111,7 +111,7 @@
             // Delete_button
             // 
             this.Delete_button.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.Delete_button.Location = new System.Drawing.Point(23, 100);
+            this.Delete_button.Location = new System.Drawing.Point(58, 100);
             this.Delete_button.Name = "Delete_button";
             this.Delete_button.Size = new System.Drawing.Size(146, 39);
             this.Delete_button.TabIndex = 5;
@@ -156,14 +156,14 @@
             // 
             this.progressBar1.Location = new System.Drawing.Point(23, 19);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(793, 23);
+            this.progressBar1.Size = new System.Drawing.Size(823, 23);
             this.progressBar1.TabIndex = 7;
             this.progressBar1.Click += new System.EventHandler(this.progressBar1_Click);
             // 
             // go_button
             // 
             this.go_button.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.go_button.Location = new System.Drawing.Point(207, 100);
+            this.go_button.Location = new System.Drawing.Point(242, 100);
             this.go_button.Name = "go_button";
             this.go_button.Size = new System.Drawing.Size(104, 39);
             this.go_button.TabIndex = 8;
@@ -176,7 +176,7 @@
             this.wskaznik_liczba.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.wskaznik_liczba.Cursor = System.Windows.Forms.Cursors.Cross;
             this.wskaznik_liczba.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.wskaznik_liczba.Location = new System.Drawing.Point(363, 48);
+            this.wskaznik_liczba.Location = new System.Drawing.Point(398, 48);
             this.wskaznik_liczba.Multiline = true;
             this.wskaznik_liczba.Name = "wskaznik_liczba";
             this.wskaznik_liczba.Size = new System.Drawing.Size(100, 34);
@@ -192,7 +192,7 @@
             // start_timer_button
             // 
             this.start_timer_button.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.start_timer_button.Location = new System.Drawing.Point(363, 100);
+            this.start_timer_button.Location = new System.Drawing.Point(398, 100);
             this.start_timer_button.Name = "start_timer_button";
             this.start_timer_button.Size = new System.Drawing.Size(104, 39);
             this.start_timer_button.TabIndex = 10;
@@ -203,7 +203,7 @@
             // stop_button
             // 
             this.stop_button.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.stop_button.Location = new System.Drawing.Point(485, 100);
+            this.stop_button.Location = new System.Drawing.Point(520, 100);
             this.stop_button.Name = "stop_button";
             this.stop_button.Size = new System.Drawing.Size(104, 39);
             this.stop_button.TabIndex = 11;
@@ -223,10 +223,10 @@
             this.groupBox1.Controls.Add(this.Delete_button);
             this.groupBox1.Location = new System.Drawing.Point(12, 394);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(852, 145);
+            this.groupBox1.Size = new System.Drawing.Size(922, 145);
             this.groupBox1.TabIndex = 12;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "groupBox1";
+            this.groupBox1.Text = "Opcje:";
             // 
             // Form1
             // 
